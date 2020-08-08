@@ -1,2 +1,2 @@
 # matrix-addition
-Add two matrix
+Python program to add two matrix
