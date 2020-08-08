@@ -1,2 +1,2 @@
 # matrix-addition
-Python program to add two matrices.
+Python program to input elements of matrices and add two matrices.
